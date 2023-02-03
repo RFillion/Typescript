@@ -18,3 +18,6 @@ helene = {
         return "".concat(a, " ").concat(this.name);
     }
 };
+var talkingPerson = function (a, b) {
+    return a.speak;
+};

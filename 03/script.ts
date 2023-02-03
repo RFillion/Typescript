@@ -28,3 +28,6 @@ helene = {
   }
 }
 
+const talkingPerson = (a:Person, b:string) => {
+  return a.speak
+}
